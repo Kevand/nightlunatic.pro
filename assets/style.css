@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+  background: #2c3e50;
+  color: #eee;
+  height: 100vh;
+  flex-direction: column;
+  font-family: "Bebas Neue", sans-serif;
+}
+
+img {
+  height: 50vh;
+}
+
+div {
+  display: flex;
+  gap: 1rem;
+}
+
+span {
+  font-size: 2rem;
+  font-weight: bold;
+  letter-spacing: 0.1rem;
+}
